@@ -1,0 +1,19 @@
+
+.grid{
+    width:1050px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+}
+
+.message{
+    height: 100px;
+}
+
+.column{
+    width: 14%;
+    float: left;
+}
+
+
+
